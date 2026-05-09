@@ -138,7 +138,10 @@ Exact registration and behavior can differ by subproject implementation.
 
 ## Acknowledgements
 
-In addition to the two primary upstream repositories:
+- **2D experiments** are based on [keishihara/flow-matching](https://github.com/keishihara/flow-matching).
+- **Image experiments** are based on [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching).
+
+Additional references and components:
 - [Guided Diffusion](https://github.com/openai/guided-diffusion/)
 - [ConvNeXt](https://github.com/facebookresearch/ConvNeXt)
 
