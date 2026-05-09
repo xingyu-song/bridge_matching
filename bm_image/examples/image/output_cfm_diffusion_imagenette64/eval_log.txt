@@ -1,0 +1,1 @@
+{"epoch": 0, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 1.00, "eval_fid": 13.38682632446289, "eval_kid_mean": 0.0021981449080631137, "eval_kid_std": 0.00036954754376783967, "eval_inception_score_mean": 11.797875213623

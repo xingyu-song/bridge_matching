@@ -1,0 +1,11 @@
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 0.0, "eval_fid": 9.926342010498047, "eval_kid_mean": 0.006826329510658979, "eval_kid_std": 0.000709490617737174, "eval_inception_score_mean": 9.294259071350098, "eval_inception_score_std": 0.1241624727845192}
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 0.25, "eval_fid": 7.3937506675720215, "eval_kid_mean": 0.004044461529701948, "eval_kid_std": 0.0005170840304344893, "eval_inception_score_mean": 9.192519187927246, "eval_inception_score_std": 0.10711619257926941}
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 0.5, "eval_fid": 5.7718353271484375, "eval_kid_mean": 0.002521038055419922, "eval_kid_std": 0.00043463087058626115, "eval_inception_score_mean": 9.045557022094727, "eval_inception_score_std": 0.0999194011092186}
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 0.75, "eval_fid": 5.337909698486328, "eval_kid_mean": 0.002526927040889859, "eval_kid_std": 0.00048741407226771116, "eval_inception_score_mean": 8.888581275939941, "eval_inception_score_std": 0.09148664027452469}
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 0.8, "eval_fid": 5.3751325607299805, "eval_kid_mean": 0.0026820183265954256, "eval_kid_std": 0.0005141425062902272, "eval_inception_score_mean": 8.857290267944336, "eval_inception_score_std": 0.09258562326431274}
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 1.0, "eval_fid": 5.777838706970215, "eval_kid_mean": 0.0035938024520874023, "eval_kid_std": 0.0006371305789798498, "eval_inception_score_mean": 8.726841926574707, "eval_inception_score_std": 0.0733567327260971} 
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 1.5, "eval_fid": 7.71376895904541, "eval_kid_mean": 0.006642007734626532, "eval_kid_std": 0.0008652749238535762, "eval_inception_score_mean": 8.526543617248535, "eval_inception_score_std": 0.08269619196653366}
+
+{"epoch": 299, "eval_lambda_eval_u": 1.0, "eval_lambda_eval_d": 0.0, "eval_fid": 5.205379962921143, "eval_kid_mean": 0.0028076171875, "eval_kid_std": 0.000650025496724993, "eval_inception_score_mean": 8.795287132263184, "eval_inception_score_std": 0.09505125135183334}
+
+
