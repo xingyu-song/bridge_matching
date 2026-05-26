@@ -1,5 +1,7 @@
 # Bridge Matching: 2D and Image Experiments
 
+**Paper:** [Deterministic Decomposition of Stochastic Generative Dynamics](https://arxiv.org/abs/2605.08794) (arXiv:2605.08794)
+
 This repository combines Bridge Matching (BM) experiments across:
 - **2D synthetic distributions** (e.g., gaussian, moons, checkerboard)
 - **Image datasets** (e.g., CIFAR-10, MNIST/FashionMNIST, ImageNet-style data)
